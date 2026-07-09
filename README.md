@@ -4,6 +4,10 @@
 > hand edits**. It's a live demo of what `/book` produces: 15 chapters, ~26,800 words, and
 > 400+ `file:line` citations, all grounded in the real source. Start with the Table of
 > Contents below.
+>
+> 🧠 **New:** each chapter now has an active-recall [**quiz**](quizzes/README.md) (plus a
+> [final exam](quizzes/14-final-exam.md)) with grounded, cited answers — read a chapter,
+> then test yourself.
 
 ---
 
